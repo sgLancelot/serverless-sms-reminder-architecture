@@ -1,2 +1,2 @@
-#Serverless SMS Reminder Architecture
+# Serverless SMS Reminder Architecture
 for zhenkai.xyz
